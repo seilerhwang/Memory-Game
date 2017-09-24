@@ -3,7 +3,7 @@ A browser-based card matching game. <br>
 The project was created as part of Front-End Web Developer Nanodegree from Udacity.
 
 ## How to run the game
-Click on the link to begin: https://seilerhwang.github.io/Simple-Arcade-Game/ <br>
+Click on the link to begin: https://seilerhwang.github.io/Memory-Game/ <br>
 Preferred browser is Chrome. 
 
 ## How to win the game
